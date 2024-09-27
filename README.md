@@ -1,4 +1,4 @@
- 4-Python-Projects
+ Python GWING TECHNOLOGIES TASKS :
                  1. Quiz Game 
                  2. Number Guessing Game
                  3. Rock, Paper, Scissors 
